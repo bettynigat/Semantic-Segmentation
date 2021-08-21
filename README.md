@@ -8,5 +8,5 @@ In this project, we are going to design a convolutional neural network that can 
 exemplified below. Specifically, our network will take an image as the input and assign labels to each pixel.
 The goal is to achieve as high as possible mean Intersection of Union (mIoU) on the test dataset. 
 
-![](images/image.png)
+![](semantic.png)
 
